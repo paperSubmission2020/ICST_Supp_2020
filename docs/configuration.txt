@@ -1,0 +1,12 @@
+﻿python==3.5
+numpy
+scipy
+tensorflow==0.11.0rc1
+opencv-python
+keras==1.1
+h5py
+Pillow
+scikit-image
+watchdog
+PreScan=8.4
+Matalab=2017b
